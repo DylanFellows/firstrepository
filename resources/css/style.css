@@ -1,0 +1,96 @@
+h1 {
+    color: cyan;
+    text-align: center;
+    background-color: black;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+a:link {
+    color: cyan;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.a2 {
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.About {
+    margin-left: 10px;
+    color: white;
+    font-size: 1.2em;
+    vertical-align: top;
+    margin-top: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    width: 70%;
+    float: left;
+}
+
+.menu {
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    background-color: black;
+}
+
+.bullets {
+    vertical-align: middle;
+}
+
+#leftDiv {
+    float: left;
+    width: 12%;
+    position: relative;
+}
+
+#rightDiv {
+    width: 86%;
+    position: relative;
+}
+
+#profilePic {
+    width: 98%;
+    float: left;
+}
+
+#contactInfo {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
