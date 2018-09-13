@@ -102,8 +102,8 @@ a:active {
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
-    padding: 10px;
-    height: 400px;
+    padding: 30px;
+    height: 100%;
     align-content: space-between;
     justify-content: space-evenly;
 }
@@ -139,24 +139,26 @@ a:active {
 }
 
 #placeholder1 {
-    width: 250px;
-    height: 200px;
+    width: 70%;
+    padding-top: 30px;
 }
 
 #placeholder2 {
-    width: 200px;
+    width: 60%;
+    padding-top: 30px;
 }
 
 #placeholder3 {
-    width: 250px;
-    height: 200px;
+    width: 80%;
+    padding-top: 30px;
 }
 
 #placeholder4 {
-    width: 200px;
+    width: 70%;
+    padding-top: 30px;
 }
 
 #placeholder5 {
-    width: 250px;
-    height: 200px;
+    width: 80%;
+    padding-top: 30px;
 }
